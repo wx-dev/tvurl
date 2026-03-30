@@ -1,17 +1,17 @@
 {"urls":
 [
-    {"url": "./0707.json", "name": "🆗影视多线"},
-    {"url": "./0821.json", "name": "饭太硬大而全"},
-    {"url": "./0825.json", "name": "小而精(需改代理)"},
-    {"url": "./0826.json", "name": "饭太硬原版"},
-    {"url": "./0827.json", "name": "FongMi原版"},
-    {"url": "./367.json", "name": "摸鱼儿"},
-    {"url": "./9918.json", "name": "🔞"},
-    {"url": "./99188.json", "name": "🔞"},
-    {"url": "./dianshi.json", "name": "电视直播源"},
-    {"url": "./fty.json", "name": "饭太硬/摸鱼儿"},
-    {"url": "./js.json", "name": "道长drpy(带油管)"},
-    {"url": "./jsm.json", "name": "合集(去油管/OK)"},
-    {"url": "./XYQ.json", "name": "香雅情"}
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/0707.json", "name": "🆗影视多线"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/0821.json", "name": "饭太硬大而全"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/0825.json", "name": "小而精(需改代理)"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/0826.json", "name": "饭太硬原版"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/0827.json", "name": "FongMi原版"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/367.json", "name": "摸鱼儿"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/9918.json", "name": "🔞"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/99188.json", "name": "🔞"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/dianshi.json", "name": "电视直播源"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/fty.json", "name": "饭太硬/摸鱼儿"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/js.json", "name": "道长drpy(带油管)"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/jsm.json", "name": "合集(去油管/OK)"},
+    {"url": "https://edgeone.gh-proxy.org/https://github.com/wx-dev/tvurl/blob/main/XYQ.json", "name": "香雅情"}
 ]
 }
