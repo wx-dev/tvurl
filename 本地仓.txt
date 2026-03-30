@@ -1,0 +1,17 @@
+{"urls":
+[
+    {"url": "file://tvbox/0707.json", "name": "🆗影视多线"},
+    {"url": "file://tvbox/0821.json", "name": "饭太硬大而全"},
+    {"url": "file://tvbox/0825.json", "name": "小而精(需改代理)"},
+    {"url": "file://tvbox/0826.json", "name": "饭太硬原版"},
+    {"url": "file://tvbox/0827.json", "name": "FongMi原版"},
+    {"url": "file://tvbox/367.json", "name": "摸鱼儿"},
+    {"url": "file://tvbox/9918.json", "name": "🔞"},
+    {"url": "file://tvbox/99188.json", "name": "🔞"},
+    {"url": "file://tvbox/dianshi.json", "name": "电视直播源"},
+    {"url": "file://tvbox/fty.json", "name": "饭太硬/摸鱼儿"},
+    {"url": "file://tvbox/js.json", "name": "道长drpy(带油管)"},
+    {"url": "file://tvbox/jsm.json", "name": "合集(去油管/OK)"},
+    {"url": "file://tvbox/XYQ.json", "name": "香雅情"}
+]
+}
